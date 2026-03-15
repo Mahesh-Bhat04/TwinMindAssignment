@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TwinMind</string>
+
+    <!-- Recording -->
+    <string name="recording_channel_name">Recording</string>
+    <string name="recording_status">Recording…</string>
+    <string name="paused_status">Paused</string>
+    <string name="paused_phone_call">Paused - Phone call</string>
+    <string name="paused_audio_focus">Paused - Audio focus lost</string>
+    <string name="stopped_status">Stopped</string>
+    <string name="low_storage_error">Recording stopped - Low storage</string>
+    <string name="silence_warning">No audio detected - Check microphone</string>
+    <string name="start_recording">Start recording</string>
+    <string name="stop_recording">Stop recording</string>
+    <string name="pause_recording">Pause</string>
+    <string name="resume_recording">Resume</string>
+
+    <!-- Dashboard -->
+    <string name="no_meetings">No meetings yet</string>
+    <string name="tap_to_record">Tap the microphone button to start recording</string>
+
+    <!-- Meeting Detail -->
+    <string name="transcript_tab">Transcript</string>
+    <string name="summary_tab">Summary</string>
+    <string name="generate_summary">Generate Summary</string>
+    <string name="summarize">Summarize</string>
+    <string name="generating_summary">Generating summary…</string>
+    <string name="no_transcript">No transcript yet</string>
+    <string name="retry">Retry</string>
+
+    <!-- Summary Sections -->
+    <string name="section_title">Title</string>
+    <string name="section_summary">Summary</string>
+    <string name="section_action_items">Action Items</string>
+    <string name="section_key_points">Key Points</string>
+</resources>
